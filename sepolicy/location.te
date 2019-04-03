@@ -1,0 +1,2 @@
+allow location self:capability { net_raw };
+allow location sysfs:file r_file_perms;
